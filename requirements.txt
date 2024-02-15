@@ -1,0 +1,13 @@
+owslib
+pillow
+mercantile
+ipykernel
+matplotlib
+alive_progress
+# web server
+flask
+# labelling
+label-studio
+label-studio-sdk
+# yolo 8
+ultralytics

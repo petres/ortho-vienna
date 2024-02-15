@@ -1,0 +1,8 @@
+owslib
+pillow
+mercantile
+# web server
+flask
+gunicorn
+# yolo 8
+ultralytics
